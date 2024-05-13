@@ -1,0 +1,2 @@
+# rustgo
+starting rust journey
